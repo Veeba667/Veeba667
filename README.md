@@ -1,10 +1,10 @@
 [![](https://visitcount.itsvg.in/api?id=Veeba&icon=5&color=9)](https://visitcount.itsvg.in)
 
-- 👋 Hi, I’m @Veeba667
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Veeba
+- 👀 I’m interested in Academics.
+- 🌱 I’m currently learning Academic.
+- 💞️ I’m looking to collaborate on Academics.
+- 📫 How to reach me Academics.
 
 <!---
 Veeba667/Veeba667 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
