@@ -1,6 +1,6 @@
 [![](https://visitcount.itsvg.in/api?id=Veeba&icon=5&color=9)](https://visitcount.itsvg.in)
 
-- 👋 Hi, I’m Veeba
+- 👋 Hi, I’m Veeba.
 - 👀 I’m interested in Academics.
 - 🌱 I’m currently learning Academic.
 - 💞️ I’m looking to collaborate on Academics.
